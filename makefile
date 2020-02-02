@@ -1,5 +1,5 @@
 CC=gcc
 
 all:
-	@gcc ./flow.c -o build/flow
+	@gcc ./flow.c -o flow
 
